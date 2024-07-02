@@ -1,0 +1,9 @@
+Host github.com-personal
+HostName github.com
+PreferredAuthentications publickey
+IdentityFile ~/.ssh/github-personal
+
+Host github.com-company
+HostName github.com
+PreferredAuthentications publickey
+IdentityFile ~/.ssh/github-company
